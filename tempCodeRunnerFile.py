@@ -1,0 +1,1 @@
+print(f"x shape: {x_train.shape}")
